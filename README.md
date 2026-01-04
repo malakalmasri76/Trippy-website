@@ -27,4 +27,4 @@ A responsive travel website built with **React.js** that showcases popular desti
 - Managing state for dynamic destination cards
 
 ## Live Demo
-[View Live](trippy-website-ten.vercel.app)
+[View Live][(trippy-website-ten.vercel.app)](https://trippy-website-ten.vercel.app/)
